@@ -1,0 +1,4 @@
+# Airflow 공식 constraints 와 충돌하지 않도록 핵심 패키지는 pin 하지 않음
+# 실습 챕터에서 필요한 패키지를 여기에 추가한다
+pandas
+requests

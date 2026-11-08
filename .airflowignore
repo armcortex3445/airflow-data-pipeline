@@ -1,0 +1,6 @@
+# DAG 파싱에서 제외할 경로 (프로젝트 루트가 dags 폴더로 마운트됨)
+docker/
+logs/
+plugins/
+\.git/
+\.venv/
